@@ -1,0 +1,9 @@
+p{
+   background-color: rgb(120, 216, 23);
+   color: rgb(25, 246, 231);
+}
+
+div p:nth-of-type(1){
+   background-color: rgb(21, 0, 255);
+   color: rgb(255, 0, 170);
+}
